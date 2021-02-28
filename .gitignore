@@ -3,6 +3,7 @@ world.db
 Pipfile
 Pipfile.lock
 main.py
+task_scheduler.bat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
